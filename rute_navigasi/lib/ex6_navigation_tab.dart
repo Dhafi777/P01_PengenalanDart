@@ -116,7 +116,7 @@ class Profile extends StatelessWidget {
     return const Center(
       child: Text(
         'Halaman Profile',
-        style: TextStyle(fontSize: 20),
+        style: TextStyle(fontSize: 21),
       ),
     );
   }
